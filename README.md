@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @rifat9918
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Rifat!
 
-<!---
-rifat9918/rifat9918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 **I'm a passionate learner diving into the world of programming!**  
+💻 Currently learning **JavaScript** to master web development.  
+🎯 My goal: Build dynamic and user-friendly web applications.  
+
+---
+
+## 🚀 Skills and Learning Journey
+- **Languages**: HTML, CSS, Bootstrap, JavaScript (in progress)
+- **Currently Exploring**: DOM Manipulation, Responsive Design
+- **Future Goals**: React, APIs, and Full-Stack Development
+
+---
+
+## 📂 Featured Projects
+- 🌟 **[Portfolio Website](https://github.com/your-username/portfolio)**  
+  A responsive portfolio showcasing my skills and projects.  
+- 📘 **[To-Do List App](https://github.com/your-username/todo-app)**  
+  A beginner project to practice JavaScript DOM manipulation.  
+
+---
+
+## 🌟 Fun Facts About Me
+- ✨ I love experimenting with new coding techniques.  
+- 📚 I'm a huge fan of online coding challenges and hackathons.  
+
+---
